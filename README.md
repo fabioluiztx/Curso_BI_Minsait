@@ -4,3 +4,4 @@ minsait_3
 update_aula01_LINUX_SHELL
 update_aula02_HDFS
 update_aula02_ex_HIVE_JDBC
+update_aula03_ex_SPARK
